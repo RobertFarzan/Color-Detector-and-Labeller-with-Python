@@ -21,4 +21,9 @@ Having checked all the previous pre-requisites, to run the program there's just 
 $ python3 main.py
 ```
 
+To use the application, it is as simple as loading your desired picture and click on the part of the image you want to know the name of the color. A little red square indicates the zone being pointed out.
+
+## :minidisc: Execution example
+
+![Example screenshot](https://user-images.githubusercontent.com/44211717/126881943-0eb07ebc-5905-4819-ae2d-349b2e3b5f1e.png)
 
