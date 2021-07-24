@@ -12,3 +12,13 @@ This little project aims to develop a simple GUI to upload your images and read 
  - **Pandas for Python3** (used version: pandas 1.1.0)
  - **Tkinter for Python3** (used version: Tk 8.6) 
  - **PIL** (used version: PIL 8.3.1)
+
+## :rocket: How to run the application
+
+Having checked all the previous pre-requisites, to run the program there's just a simple step:
+
+```
+$ python3 main.py
+```
+
+
