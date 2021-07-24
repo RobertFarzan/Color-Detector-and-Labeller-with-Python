@@ -4,7 +4,7 @@
 
 ## :newspaper: Description 
 
-This little project aims to develop a simple GUI to upload your images and read the specific colorname you may want to know from a part of the picture. It is completely developed in __Python3__, so pay attention to the following pre-requisites for the application in order to work.
+This little project aims to develop a simple GUI to upload your images and read the specific colorname you may want to know from a part of the picture. It is entirely developed in __Python3__, so pay attention to the following pre-requisites for the application in order to work.
 
 ## Pre-requisites
 
