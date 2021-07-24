@@ -6,3 +6,9 @@
 
 This little project aims to develop a simple GUI to upload your images and read the specific colorname you may want to know from a part of the picture. It is completely developed in __Python3__, so pay attention to the following pre-requisites for the application in order to work.
 
+## Pre-requisites
+
+ - **Python3** (Python 2.7 not supported)
+ - **Pandas for Python3** (used version: pandas 1.1.0)
+ - **Tkinter for Python3** (used version: Tk 8.6) 
+ - **PIL** (used version: PIL 8.3.1)
