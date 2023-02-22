@@ -1,4 +1,4 @@
-# Color Detector and-Labeller with Python
+# Color Detector and Labeller with Python
 
 ![](https://user-images.githubusercontent.com/44211717/126876210-ccd0fa05-fa75-4a47-a4d6-f49692fe928a.png)
 
